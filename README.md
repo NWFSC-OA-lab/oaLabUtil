@@ -1,2 +1,2 @@
-# nwfsc_oa_lab_utils
+# oaLabUtil
 NWFSC OA lab utility function package
